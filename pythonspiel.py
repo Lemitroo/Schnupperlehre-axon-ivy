@@ -2,7 +2,7 @@ import random
 
 def Startgame():
     
-    Nummer = random.randrange(0, 100)
+    Nummer = random.randrange(1, 3)
     Guessednummer = -1
     Tries = 0
     
