@@ -11,3 +11,4 @@ if [ $option -eq 1 ]; then
     ((healtP1-=20))
     echo "Your enimie got hit and now has $healtP1 HP"
 if [ $option -eq 2 ]; then
+    
